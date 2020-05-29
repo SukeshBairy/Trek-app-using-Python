@@ -1,10 +1,5 @@
 from tabulate import tabulate
 from main import *
-    """Welcome to World Adventures!
-                         It’s a platform to book trekking and hiking explorations. 
-                         It shows various places that are available for the treks and also allows you to book the tickets online.
-                         In case you miss out on the count, you can even edit the booking. 
-                         Addition to these features, the contact information of the concerned person is also available for further queries"""
 
 customer_details = dict()
 #total_me = 30
