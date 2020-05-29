@@ -16,8 +16,8 @@ Firstly, I have imported some of the built-in functions, per se "time","re","ran
 * Once the user has chosen a place, it gives a confirmation of the seats booked and the estimated total cost.
 * The next member functions used is "Payment" that helps the user pay the amount online. In this, I have used the pyotp function which creates a new OTP every minute and verifies the User.
 ## 2. The app
-* a) I have imported a built-in function "Tabulate" to organise the data and main.py for creating the object and using the member functions of the class.
-* b) Defining a function "Valid_email_ID" to check if the user provides a valid email ID.
+* I have imported a built-in function "Tabulate" to organise the data and main.py for creating the object and using the member functions of the class.
+* Defining a function "Valid_email_ID" to check if the user provides a valid email ID.
          
 # Conclusion
 This project shows all the places for a good trek in both, South India and Himachal Pradesh.  A very User friendly Application which doesn’t require high level knowledge to operate on.
