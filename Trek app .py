@@ -1,5 +1,5 @@
 from tabulate import tabulate
-from project_main import *
+from main import *
     """Welcome to World Adventures!
                          It’s a platform to book trekking and hiking explorations. 
                          It shows various places that are available for the treks and also allows you to book the tickets online.
