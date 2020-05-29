@@ -8,23 +8,16 @@ Addition to these features, the contact information of the concerned person is a
 
 # The Project
 Now lets get to my project.
-Firstly, I have imported some of the built-in functions,per say "time","re","random" and "pyotp".
+Firstly, I have imported some of the built-in functions, per se "time","re","random" and "pyotp".
 
-## The class
-* 1.I have created a class named Trek and created __init__ function which is a reserved methods in python.The __init__ method               can be called when an object is created from the class.
-* 2.The creation of 2 member functions of the class "Trek" to update the seating arrangements with accordance with the user.
-* 3.Once the user has chose a place , to give an confirmation for the allotment of seats and how much would be the cost.
-* 4.The next member functions used is "Payment" for the user to pay the amount through debit card details.In this , I have used             the pyotp function which creates an new OTP every one minute and verifies if the user's is True.
-## The app
-* 1.I have imported a built-in function "Tabulate" to organise the data and the main.py for creating the object and using the                  member functions of the class.
-* 2.Defining a function "Valid_email_ID" to check if the user provides a valid email ID.
+## 1. The class
+* a) I have created a class named Trek and init function which is a reserved method in python. The init method can be called when an object is created from the class.
+* b) The creation of 2 member functions of the class "Trek" to update the seating arrangements with accordance with the user.
+* c)  Once the user has chosen a place, it gives a confirmation of the seats booked and the estimated total cost.
+* d) The next member functions used is "Payment" that helps the user pay the amount online. In this, I have used the pyotp function which creates a new OTP every minute and verifies the User.
+## 2. The app
+* a) I have imported a built-in function "Tabulate" to organise the data and main.py for creating the object and using the member functions of the class.
+* b) Defining a function "Valid_email_ID" to check if the user provides a valid email ID.
          
 # Conclusion
-This project shows all the places for a good trek both in south India and Himachal, easier for the user to operate and easy booking .
-         
-         
-         
-          
-          
-          
-          
+This project shows all the places for a good trek in both, South India and Himachal Pradesh.  A very User friendly Application which doesn’t require high level knowledge to operate on.
